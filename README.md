@@ -27,6 +27,7 @@
 |---|---|
 | 🎯 **Foco atual** | Plataforma de campanhas OOH, arquitetura TypeScript, fluxos com agentes de IA |
 | 🧰 **Especialidade** | VTEX IO / FastStore, front-end sênior, liderança técnica |
+| 🧬 **Poliglota** | JavaScript/TypeScript, PHP, C#/.NET (ASP, Razor, VB), Python, Kotlin |
 | 🔧 **Fora do código** | Mecânico automotivo: preparação de motores, câmbios, remap e diagnóstico |
 | 🗣️ **Idiomas** | Português (nativo), inglês (profissional), espanhol e francês (básico) |
 | 🎓 **Formação** | ADS, Gestão em TI (em andamento), técnico em mecânica automotiva |
@@ -77,7 +78,7 @@ Referência técnica em omnicanalidade, POCs de fluxo de compra, uso eficiente d
 
 <br>
 
-PHP e sites institucionais, ERP em ASP.NET/C#, e depois lojas VTEX e Shopify em Econverse, Synapcom, Maeztra e Infracommerce.
+PHP e sites institucionais, ERP em ASP.NET MVC, C# e Razor (design system incluso), e depois lojas VTEX e Shopify em Econverse, Synapcom, Maeztra e Infracommerce.
 
 </details>
 
@@ -101,6 +102,7 @@ PHP e sites institucionais, ERP em ASP.NET/C#, e depois lojas VTEX e Shopify em 
 |:--|:--|
 | **Front-end** | ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
 | **Back-end** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white) ![Nest](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Ecossistema .NET** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat-square) ![VB](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square) |
 | **Dados** | ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | **Cloud & DevOps** | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
 | **E-commerce** | ![VTEX](https://img.shields.io/badge/VTEX_IO-F71963?style=flat-square&logo=vtex&logoColor=white) ![FastStore](https://img.shields.io/badge/FastStore-1A1210?style=flat-square) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) |
