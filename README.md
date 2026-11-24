@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1210,100:C8873E&height=180&section=header&text=Jo%C3%A3o%20Felipe%20Santos&fontSize=40&fontColor=F5EDE3&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20E-commerce%20%C2%B7%20WordPress%20%C2%B7%20TypeScript&descSize=16&descAlignY=55&descColor=F5EDE3&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1210,100:C8873E&height=180&section=header&text=Jo%C3%A3o%20Felipe%20Santos&fontSize=40&fontColor=F5EDE3&fontAlignY=35&desc=Tech%20Lead%20%C2%B7%20Full%20Stack%20%C2%B7%20E-commerce%20%C2%B7%20TypeScript&descSize=16&descAlignY=55&descColor=F5EDE3&animation=fadeIn" width="100%" />
 
 [![Portfólio](https://img.shields.io/badge/odevjoao.com-1A1210?style=for-the-badge&logo=google-chrome&logoColor=C8873E)](https://odevjoao.com)
-[![GitHub](https://img.shields.io/badge/joaofssantos-C8873E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaofssantos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelipe-dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C8873E&center=true&vCenter=true&width=520&lines=Código+limpo+e+café+forte;Carros+%C2%B7+bike+%C2%B7+café+%C2%B7+código;Construindo+coisas+que+funcionam" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C8873E&center=true&vCenter=true&width=520&lines=Tech+Lead+%C2%B7+desenvolvedor+desde+2015;8+anos+de+e-commerce+%C2%B7+VTEX+%C2%B7+TypeScript;Carros+%C2%B7+bike+%C2%B7+café+%C2%B7+código" alt="typing" />
 
 </div>
 
 <br>
 
-Desenvolvedor com foco em **e-commerce e web**: temas e lojas em **VTEX / FastStore**, sites em **WordPress** (PHP) e aplicações em **TypeScript / React / Node.js**. Fora do teclado, gosto mesmo é de **carros 🏎️, bike 🚴 e café ☕**, e isso acaba virando projeto (veja abaixo).
+Desenvolvedor desde 2015, com **8 anos em e-commerce** (VTEX IO, FastStore e CMS, Shopify, WordPress) e hoje **Tech Lead na Eletromidia**, liderando o time da plataforma de planejamento, execução e mensuração de campanhas de mídia OOH. Foco em **TypeScript**, arquitetura, qualidade de entrega e fluxos de desenvolvimento assistido por IA.
+
+Fora do teclado sou **mecânico automotivo 🔧** (preparação e calibração de motores, câmbios automáticos, remap e diagnóstico), além de **bike 🚴 e café ☕**.
 
 <br>
 
@@ -68,23 +70,57 @@ Sistema de gestão para oficinas mecânicas (SaaS): ordens de serviço, clientes
 
 <br>
 
+## 💼 Experiência
+
+<table>
+<tr>
+<td>
+
+**Tech Lead** · Eletromidia · *jun 2026 – atual*
+> Lidero o time da plataforma proprietária de planejamento, execução e mensuração de campanhas OOH. Ecossistema poliglota (front-ends, APIs, jobs, bibliotecas compartilhadas) em monorepos. Processo de validação pós-release baseado em evidências (causa raiz, reprodução, patch e testes), documentação de domínio, runbooks, trilha de onboarding e fluxo de desenvolvimento com agentes de IA e QA cruzado entre modelos.
+
+**Partner** · Advanced Agência Digital · *nov 2024 – atual*
+> Consultoria técnica para negócios locais: hospedagem, CRO, SEO e Core Web Vitals, temas WordPress e evolução de lojas VTEX, Shopify e Loja Integrada.
+
+**Tech Lead** · Cadastra · *2025*
+> Liderança técnica em squads de implantação, outsourcing e evolução de e-commerces em VTEX IO, FastStore, VTEX CMS e WordPress: do kick-off ao go-live, arquitetura, mentoria e padronização de código.
+
+**Senior Software Developer** · ALLOS (ex-brMalls) · *mar 2022 – nov 2024*
+> Referência técnica na equipe de omnicanalidade, POCs de fluxo de compra, CMS e arquitetura de plataformas de e-commerce.
+
+**Antes:** Infracommerce, Maeztra, Synapcom e Econverse (front-end VTEX e Shopify), desde 2018; web e PHP desde 2015.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## 🧠 Stack
 
 <div align="center">
 
 #### Front-end
-[![Front](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+[![Front](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,astro,tailwind,vite,storybook)](https://skillicons.dev)
 
-#### Back-end & Banco de dados
-[![Back](https://skillicons.dev/icons?i=nodejs,express,php,python,kotlin,postgres,mysql,prisma)](https://skillicons.dev)
+#### Back-end & Dados
+[![Back](https://skillicons.dev/icons?i=nodejs,bun,express,fastify,nestjs,php,graphql,mongodb,mysql,redis)](https://skillicons.dev)
 
-#### CMS & E-commerce
-[![CMS](https://skillicons.dev/icons?i=wordpress,strapi)](https://skillicons.dev)
-![VTEX](https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+#### Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=gcp,docker,githubactions,cloudflare,vercel,supabase)](https://skillicons.dev)
+
+#### E-commerce & CMS
+[![CMS](https://skillicons.dev/icons?i=wordpress,shopify)](https://skillicons.dev)
+![VTEX](https://img.shields.io/badge/VTEX_IO-F71963?style=for-the-badge&logo=vtex&logoColor=white)
 ![FastStore](https://img.shields.io/badge/FastStore-1A1210?style=for-the-badge&logoColor=white)
 
-#### Ferramentas
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,figma)](https://skillicons.dev)
+#### Qualidade
+[![Quality](https://skillicons.dev/icons?i=jest,vitest,cypress,playwright,eslint,prettier)](https://skillicons.dev)
+
+#### IA
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Multi-agent](https://img.shields.io/badge/Fluxos_multi--agente-C8873E?style=for-the-badge)
 
 </div>
 
@@ -92,7 +128,8 @@ Sistema de gestão para oficinas mecânicas (SaaS): ordens de serviço, clientes
 
 ## ☕ Fora do código
 
-- 🏎️ Carros: mantenho o **gearhead-info**, um portal de informação veicular (ficha técnica, FIPE, manutenção)
+- 🔧 Mecânica: técnico em mecânica automotiva, injeção eletrônica e elétrica
+- 🏎️ Carros: **gearhead-info**, um portal de informação veicular (ficha técnica, FIPE, manutenção)
 - 🚴 Bike: pedalo e analiso os trajetos do Strava
 - ☕ Café: combustível oficial de todos os commits
 
