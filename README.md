@@ -117,7 +117,7 @@ PHP e sites institucionais, ERP em ASP.NET MVC, C# e Razor (design system inclus
 
 <p>
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=joaofssantos&show_icons=true&theme=github_dark&hide_border=true&bg_color=1A1210&title_color=C8873E&icon_color=C8873E&text_color=F5EDE3" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofssantos&layout=compact&theme=github_dark&hide_border=true&bg_color=1A1210&title_color=C8873E&text_color=F5EDE3" />
+<img src="./assets/languages.svg" alt="Todas as linguagens usadas nos meus repositórios" />
 </p>
 
 ```text
